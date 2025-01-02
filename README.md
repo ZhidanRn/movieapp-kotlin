@@ -30,7 +30,7 @@ MovieApp is a native Android application that allows users to explore movie info
 
 ## Usage
 
-1.Once the app is running, you will see the main screen displaying a list of available genres.
-2.Select a genre to view the list of movies associated with that genre.
-3.Click on a movie to view its details, including the overview and YouTube trailer.
-4.Click the "View Reviews" button to see user reviews for the selected movie.
+1. Once the app is running, you will see the main screen displaying a list of available genres.
+2. Select a genre to view the list of movies associated with that genre.
+3. Click on a movie to view its details, including the overview and YouTube trailer.
+4. Click the "View Reviews" button to see user reviews for the selected movie.
